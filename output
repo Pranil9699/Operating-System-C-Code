@@ -1,0 +1,136 @@
+bcascipc07@bcascipc07:~$ touch execv.c
+bcascipc07@bcascipc07:~$ gcc execv.c -o execv
+bcascipc07@bcascipc07:~$ ./execv
+Parent process: My PID is 12134
+Child process: My PID is 12135
+total 500
+-rw-rw-r-- 1 bcascipc07 bcascipc07    20 Apr 16  2022  00.txt
+-rw-rw-r-- 1 bcascipc07 bcascipc07   317 Aug 17 12:55  01.sh
+drwxr-xr-x 2 bcascipc07 bcascipc07  4096 Mar 16  2020  11225
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Mar 16  2020  11247
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Nov 30  2022  Aarti
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Mar 31 08:43  ABC
+-rw-rw-r-- 1 bcascipc07 bcascipc07    93 May 24  2022  abc.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07   133 May 24  2022  ab.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07   236 Mar 16  2020  a.py
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 May  7 12:37  assignment1
+-rw-rw-r-- 1 bcascipc07 bcascipc07     8 May 24  2022  as.txt
+-rw-rw-r-- 1 bcascipc07 bcascipc07   211 Mar 16  2020  average.py
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr 29  2022  avi
+-rw-rw-r-- 1 bcascipc07 bcascipc07     7 Apr 30  2022  bca
+-rw-rw-r-- 1 bcascipc07 bcascipc07   181 Aug 17 12:28  bca05.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07    13 Apr 16  2022  bca1
+-rw-rw-r-- 1 bcascipc07 bcascipc07   163 Aug 17 12:19  bca1.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07     8 Apr 23  2022  bca2
+-rw-rw-r-- 1 bcascipc07 bcascipc07    24 Apr 23  2022  BCASCI
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Aug 17 12:07  bca.sh
+drwxrwxr-x 3 bcascipc07 bcascipc07  4096 Apr 22  2022  BCASINCE
+-rw-rw-r-- 1 bcascipc07 bcascipc07    18 Apr 23  2022  bca.txt
+-rw-rw-r-- 1 bcascipc07 bcascipc07   180 Mar 16  2020  b.py
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr  1 08:26  cat
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Aug 17 13:23  chil.c
+-rw-rw-r-- 1 bcascipc07 bcascipc07     7 Apr 23  2022  deskstop
+drwxr-xr-x 3 bcascipc07 bcascipc07  4096 Aug 17 13:25  Desktop
+-rw-rw-r-- 1 bcascipc07 bcascipc07   111 Aug 17 13:13  div.sh
+drwxr-xr-x 3 bcascipc07 bcascipc07  4096 Jul 26 12:27  Documents
+drwxr-xr-x 3 bcascipc07 bcascipc07  4096 Aug 17 13:16  Downloads
+-rw-rw-r-- 1 bcascipc07 bcascipc07    14 Apr 22  2022  duanu
+-rw-rw-r-- 1 bcascipc07 bcascipc07    32 May 13  2022  ek
+drwxrwxr-x 3 bcascipc07 bcascipc07  4096 May 15 13:43  exam
+-rw-r--r-- 1 bcascipc07 bcascipc07  8980 Mar 14  2020  examples.desktop
+-rwxrwxr-x 1 bcascipc07 bcascipc07 16952 Aug 17 13:40  execv
+-rw-rw-r-- 1 bcascipc07 bcascipc07   503 Aug 17 13:39  execv.c
+-rw-r--r-- 1 bcascipc07 bcascipc07  1020 Feb 11  2022  fcfs.c
+-rw-rw-r-- 1 bcascipc07 bcascipc07    28 Apr 16  2022  file1
+-rw-rw-r-- 1 bcascipc07 bcascipc07    18 Apr 16  2022  filel
+-rwxrwxr-x 1 bcascipc07 bcascipc07 16912 Aug 17 13:31  fork
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Aug 17 13:24  forkan.c
+-rw-rw-r-- 1 bcascipc07 bcascipc07   453 Aug 17 13:31  fork.c
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Aug 17 13:17  forkn.c
+drwxrwxr-x 5 bcascipc07 bcascipc07  4096 May 15 13:19  fybca
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 May 16 11:20  fybca4010
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 May 16 11:26  fybca4016
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 May 16 11:23  fybca4054
+-rwxrw-r-- 1 bcascipc07 bcascipc07    84 May 17 10:20  hello.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07   998 Aug 18  2022 'INSTA CASH COW'
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Jan  3  2023  jameer
+-rw-rw-r-- 1 bcascipc07 bcascipc07 20144 Aug 18  2022 'jeety shah course'
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Jul 10 11:20  jj
+-rw-rw-r-- 1 bcascipc07 bcascipc07    51 Jul  6 12:10  kartik
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Jul  6 12:09  Kartik
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Mar 31 08:24  kunal
+drwxrwxr-x 3 bcascipc07 bcascipc07  4096 Mar 31 08:39  kunal.c
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr 22  2022  lifeline
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  lkjhfyhrytry
+-rwxrw-r-- 1 bcascipc07 bcascipc07    58 May 17 11:03  loop.sh
+drwxrwxr-x 3 bcascipc07 bcascipc07  4096 Apr 29  2022  me
+-rw-rw-r-- 1 bcascipc07 bcascipc07     7 Apr 16  2022  megha.txt
+-rw-rw-r-- 1 bcascipc07 bcascipc07   112 Aug 17 12:53  mod.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07   109 Aug 17 12:49  mul.sh
+drwxr-xr-x 2 bcascipc07 bcascipc07  4096 Mar 14  2020  Music
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  my
+-rw-rw-r-- 1 bcascipc07 bcascipc07    22 Aug 24  2022  myfile
+-rw-rw-r-- 1 bcascipc07 bcascipc07    12 Apr 16  2022  myfile2
+-rw-rw-r-- 1 bcascipc07 bcascipc07    10 Apr 16  2022  myfile2.text
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr 16  2022  MYFILES
+-rw-rw-r-- 1 bcascipc07 bcascipc07    10 Apr 16  2022  myfile.text
+-rw-rw-r-- 1 bcascipc07 bcascipc07   128 Jul 10 12:40  narendrakadam.nk777
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  nisha
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  nisha.txt
+-rwxr-xr-x 1 bcascipc07 bcascipc07 12544 Feb 11  2022  nonpreem
+-rw-r--r-- 1 bcascipc07 bcascipc07  1533 Feb 11  2022  nonpreem.c
+-rwxrw-r-- 1 bcascipc07 bcascipc07   128 May 17 11:23  num.sh
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr  1 08:30  one
+drwxr-xr-x 2 bcascipc07 bcascipc07  4096 Aug 29  2022  Pictures
+-rw-r--r-- 1 bcascipc07 bcascipc07    14 Apr 16  2022  pranil
+-rw-rw-r-- 1 bcascipc07 bcascipc07    40 Apr 16  2022  pranilfile2
+-rw-rw-r-- 1 bcascipc07 bcascipc07     7 Apr 16  2022  pranil.txt
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Aug 13  2022 'prathamesh chitalkar html'
+-rw-rw-r-- 1 bcascipc07 bcascipc07    46 May 13  2022  program
+drwxr-xr-x 2 bcascipc07 bcascipc07  4096 Mar 14  2020  Public
+-rw-rw-r-- 1 bcascipc07 bcascipc07   103 Aug 13  2022  PUNE
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr 29  2022  qavi
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Aug 17 12:06  read.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07   132 May 24  2022  rect.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07    28 Jul 10 12:54  sawati
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Aug 25  2022  shitalhtml
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Jul 10 11:31  shweta
+-rw-rw-r-- 1 bcascipc07 bcascipc07   412 Mar 16  2020  size.py
+drwx------ 5 bcascipc07 bcascipc07  4096 Apr  1 11:08  snap
+drwxrwxr-x 3 bcascipc07 bcascipc07  4096 Oct 19  2022  sss
+-rw-rw-r-- 1 bcascipc07 bcascipc07    21 May 24  2022  sss.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07   108 Aug 17 12:43  sub.sh
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr 22  2022  sun
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 May 13  2022  sunny
+-rw-rw-r-- 1 bcascipc07 bcascipc07    18 Apr 16  2022  sunnyfile1
+-rw-rw-r-- 1 bcascipc07 bcascipc07     6 Apr 16  2022  sunny.txt
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  suuny
+-rw-rw-r-- 1 bcascipc07 bcascipc07    16 Jul 19 11:53  swapnil
+-rw-rw-r-- 1 bcascipc07 bcascipc07   137 Mar 16  2020  swap.py
+drwxrwxr-x 5 bcascipc07 bcascipc07  4096 Apr 22  2022  sy
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr 22  2022  synny
+-rwxrw-r-- 1 bcascipc07 bcascipc07   104 May 17 11:43  system.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07    87 May 24  2022  tanu.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  tejaswi
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  tejaswi00.txt
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  tejaswipawar.txt
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 Apr 16  2022  tejaswi.txt
+drwxr-xr-x 2 bcascipc07 bcascipc07  4096 Mar 14  2020  Templates
+-rw-rw-r-- 1 bcascipc07 bcascipc07    78 Mar 16  2020  tex
+-rw-rw-r-- 1 bcascipc07 bcascipc07   238 Mar 16  2020  text.py
+-rw-rw-r-- 1 bcascipc07 bcascipc07    89 May 24  2022  tt.sh
+-rwxrw-r-- 1 bcascipc07 bcascipc07    70 May 15 13:38  tusharr
+drwxrwxr-x 3 bcascipc07 bcascipc07  4096 Apr 22  2022  two
+-rw-rw-r-- 1 bcascipc07 bcascipc07     0 May 24  2022  unix
+-rw-rw-r-- 1 bcascipc07 bcascipc07   462 Sep 14  2022 'Untitled Document 1'
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 May 24  2022  vaishnavi
+-rw-rw-r-- 1 bcascipc07 bcascipc07    87 May 16 12:10  var.sh
+drwxr-xr-x 2 bcascipc07 bcascipc07  4096 Mar 14  2020  Videos
+-rw-rw-r-- 1 bcascipc07 bcascipc07  2377 Aug 13  2022 'welcome to pune'
+-rwxrw-r-- 1 bcascipc07 bcascipc07    57 May 17 10:58  whileloop.sh
+-rw-rw-r-- 1 bcascipc07 bcascipc07    13 Apr  1 08:31  write
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr  6 08:40  xyz.c
+drwxrwxr-x 2 bcascipc07 bcascipc07  4096 Apr 29  2022  yash
+Parent process: Child process has terminated
+bcascipc07@bcascipc07:~$ 
+
