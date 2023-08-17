@@ -99,4 +99,61 @@ bca13@bca13:~$ ls\
  cat                     forkexample.c               mmm.sh                    parentmsg.c       sss            'welcome to pune'
  chapter2               'form in html fy bca 4011'   moto                      Pictures          sss.sh          yuvaraj
 bca13@bca13:~$ clear ^C
-bca13@bca13:~$ 
+bca13@bca13:~$ cd TYBCA-Pranil
+bca13@bca13:~/TYBCA-Pranil$ ls
+first.sh
+bca13@bca13:~/TYBCA-Pranil$ vim first.sh
+bca13@bca13:~/TYBCA-Pranil$ bash first.sh
+Enter first Number: num13
+Enter second Number: num23
+first.sh: line 3: syntax error near unexpected token `('
+first.sh: line 3: `echo $Sum($num1 + $num2)'
+bca13@bca13:~/TYBCA-Pranil$ vim first.sh
+bca13@bca13:~/TYBCA-Pranil$ bash first.sh
+Enter first Number: num14
+Enter second Number: num25
+first.sh: line 4: + : syntax error: operand expected (error token is "+ ")
+Sum is : 
+bca13@bca13:~/TYBCA-Pranil$ vim first.sh
+bca13@bca13:~/TYBCA-Pranil$ bash first.sh
+Enter first Number: 3
+Enter second Number: 5
+sum: '=': No such file or directory
+sum: 8: No such file or directory
+Sum is : 
+bca13@bca13:~/TYBCA-Pranil$ vim first.sh
+bca13@bca13:~/TYBCA-Pranil$ bash first.sh
+Enter first Number: 4
+Enter second Number: 6
+sum: '=': No such file or directory
+sum: 10: No such file or directory
+Sum is : 
+bca13@bca13:~/TYBCA-Pranil$ vim first.sh
+bca13@bca13:~/TYBCA-Pranil$ bash first.sh
+Enter first Number: 3
+Enter second Number: 4
+first.sh: line 6: =: command not found
+Sum is : 
+bca13@bca13:~/TYBCA-Pranil$ vim first.sh
+bca13@bca13:~/TYBCA-Pranil$ bash first.sh
+Enter first Number: 5
+Enter second Number: 5
+first.sh: line 6: =: command not found
+Sum is : 
+bca13@bca13:~/TYBCA-Pranil$ vim first.sh
+bca13@bca13:~/TYBCA-Pranil$ bash first.sh
+Enter first Number: 5
+Enter second Number: 5
+Sum is : 10
+bca13@bca13:~/TYBCA-Pranil$ 
+
+
+
+
+
+for going to vim editor first create the file 
+createing file     :    $touch filename.sh
+
+when enter to the editor  we need to go INSERT mode soo we need to : enter i key
+when our program is write down then we need to save it and go back to terminal : enter ESC key -> after that enter shift colon  -> after that enter w and q key -> enter press key
+
