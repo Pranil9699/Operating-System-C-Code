@@ -1,0 +1,102 @@
+bca13@bca13:~$ touch read.sh
+bca13@bca13:~$ vim read.sh
+
+Command 'vim' not found, but can be installed with:
+
+sudo apt install vim         # version 2:8.1.2269-1ubuntu5.16, or
+sudo apt install vim-tiny    # version 2:8.1.2269-1ubuntu5.16
+sudo apt install vim-athena  # version 2:8.1.2269-1ubuntu5.16
+sudo apt install vim-gtk3    # version 2:8.1.2269-1ubuntu5.16
+sudo apt install vim-nox     # version 2:8.1.2269-1ubuntu5.16
+sudo apt install neovim      # version 0.4.3-3
+
+bca13@bca13:~$ sudo apt install vim
+[sudo] password for bca13: 
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following additional packages will be installed:
+  vim-common vim-runtime vim-tiny
+Suggested packages:
+  ctags vim-doc vim-scripts indent
+The following NEW packages will be installed:
+  vim vim-runtime
+The following packages will be upgraded:
+  vim-common vim-tiny
+2 upgraded, 2 newly installed, 0 to remove and 470 not upgraded.
+Need to get 7,787 kB of archives.
+After this operation, 34.6 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://in.archive.ubuntu.com/ubuntu focal-updates/main amd64 vim-tiny amd64 2:8.1.2269-1ubuntu5.16 [581 kB]
+Get:2 http://in.archive.ubuntu.com/ubuntu focal-updates/main amd64 vim-common all 2:8.1.2269-1ubuntu5.16 [87.2 kB]
+Get:3 http://in.archive.ubuntu.com/ubuntu focal-updates/main amd64 vim-runtime all 2:8.1.2269-1ubuntu5.16 [5,878 kB]
+Get:4 http://in.archive.ubuntu.com/ubuntu focal-updates/main amd64 vim amd64 2:8.1.2269-1ubuntu5.16 [1,241 kB]
+Fetched 7,787 kB in 4s (1,964 kB/s)
+(Reading database ... 199350 files and directories currently installed.)
+Preparing to unpack .../vim-tiny_2%3a8.1.2269-1ubuntu5.16_amd64.deb ...
+Unpacking vim-tiny (2:8.1.2269-1ubuntu5.16) over (2:8.1.2269-1ubuntu5.7) ...
+Preparing to unpack .../vim-common_2%3a8.1.2269-1ubuntu5.16_all.deb ...
+Unpacking vim-common (2:8.1.2269-1ubuntu5.16) over (2:8.1.2269-1ubuntu5.7) ...
+Selecting previously unselected package vim-runtime.
+Preparing to unpack .../vim-runtime_2%3a8.1.2269-1ubuntu5.16_all.deb ...
+Adding 'diversion of /usr/share/vim/vim81/doc/help.txt to /usr/share/vim/vim81/doc/help.txt.vim-tiny by vim-runtime'
+Adding 'diversion of /usr/share/vim/vim81/doc/tags to /usr/share/vim/vim81/doc/tags.vim-tiny by vim-runtime'
+Unpacking vim-runtime (2:8.1.2269-1ubuntu5.16) ...
+Selecting previously unselected package vim.
+Preparing to unpack .../vim_2%3a8.1.2269-1ubuntu5.16_amd64.deb ...
+Unpacking vim (2:8.1.2269-1ubuntu5.16) ...
+Setting up vim-common (2:8.1.2269-1ubuntu5.16) ...
+Setting up vim-runtime (2:8.1.2269-1ubuntu5.16) ...
+Setting up vim (2:8.1.2269-1ubuntu5.16) ...
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vim (vim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vimdiff (vimdiff) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rvim (rvim) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/rview (rview) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/vi (vi) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/view (view) in auto mode
+update-alternatives: using /usr/bin/vim.basic to provide /usr/bin/ex (ex) in auto mode
+Setting up vim-tiny (2:8.1.2269-1ubuntu5.16) ...
+Processing triggers for desktop-file-utils (0.24-1ubuntu3) ...
+Processing triggers for mime-support (3.64ubuntu1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for gnome-menus (3.36.0-1ubuntu1) ...
+Processing triggers for man-db (2.9.1-1) ...
+bca13@bca13:~$ vim read.sh
+bca13@bca13:~$ mkdir TYBCA-Pranil
+bca13@bca13:~$ cd TYBCA-Pranil
+bca13@bca13:~/TYBCA-Pranil$ dir
+bca13@bca13:~/TYBCA-Pranil$ pwd
+/home/bca13/TYBCA-Pranil
+bca13@bca13:~/TYBCA-Pranil$ ls
+bca13@bca13:~/TYBCA-Pranil$ touch first.sh
+bca13@bca13:~/TYBCA-Pranil$ ls
+first.sh
+bca13@bca13:~/TYBCA-Pranil$ cd ..
+bca13@bca13:~$ ls\
+> 
+ 1                       child1.c                    four.txt                 'mumbai farmer'    pooja           study
+ 8                       data.txt                    fybca                    'mumbai farmers'   pratiksha       swapnil
+ a2.txt                  Desktop                     FYBCA                     Music             preeemptice.c   system
+ abc                     dir1                        fybca4033                 my                pritam          tanuja
+ aditya                  DIR1                        gaurav                    myfile            Public          Templates
+ aishwarya4042           dir2                        Gd.html                   myfile.sh         read.sh         ten
+ akan.                   dir5                        ggg                       myfirstfile       rohan           two.txt
+ akansha.                Documents                   harshda                   narendra.k        rrr             TYBCA-Pranil
+ Android                 Downloads                   hhh                      'new html'         rudu            typescript
+ AndroidStudioProjects   empty.txt                   house                     new.txt           sanyog         'Untitled Document 1'
+ application             examples.desktop           'html table(BJS)'          nonpreem          saurav          vaibhav.sh
+ a.txt                   fcfs.bhj                   'image code'               nonpreem.c        script.sh       variable.sh
+ avi                     fcfs.c                     'INSTA CASH COW PROJECT'   one.c             sc.sh           varsha
+ avi1.txt                fcs.c                       jj                        one.txt          'share market'   varshu
+ avi2.txt                fil                         jspm                      oo.txt           'shegar s'       va.txt
+ bca                     file                        kk                        operating         shell.sh        venkat
+ bca1                    file1                       KK                        or.c              shreyash        Videos
+ BCA324                  file23                      kk.sh                     orphan1.c         shrikant        vishwajit
+ bca33                   file233                     lab                       orphan.c          six.txt         viva.txt
+ BCASCIENCE              filename                    lmn                       p                 snap            vs
+ bjs                     filename1                   manoj                     pagall            sneha           vvv
+ book                    first                       mmm                       paisa             sona            waghmare333
+ cat                     forkexample.c               mmm.sh                    parentmsg.c       sss            'welcome to pune'
+ chapter2               'form in html fy bca 4011'   moto                      Pictures          sss.sh          yuvaraj
+bca13@bca13:~$ clear ^C
+bca13@bca13:~$ 
