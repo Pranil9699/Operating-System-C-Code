@@ -1,0 +1,93 @@
+bca13@bca13:~$ ./rR
+bash: ./rR: No such file or directory
+bca13@bca13:~$ ls
+ 1                           fybca                     pratiksha
+ 8                           FYBCA                     preeemptice.c
+ a2.txt                      fybca4033                 pritam
+ abc                         gaurav                    Public
+ aditya                      Gd.html                   read.sh
+ aishwarya4042               ggg                       rohan
+ akan.                       harshda                   roundRobin.c
+ akansha.                    hhh                       rrr
+ Android                     house                     rudu
+ AndroidStudioProjects      'html table(BJS)'          sanyog
+ application                'image code'               saurav
+ a.txt                      'INSTA CASH COW PROJECT'   script.sh
+ avi                         java                      sc.sh
+ avi1.txt                    jj                       'share market'
+ avi2.txt                    jspm                     'shegar s'
+ bca                         kk                        shell.sh
+ bca1                        KK                        shreyash
+ BCA324                      kk.sh                     shrikant
+ bca33                       lab                       six.txt
+ BCASCIENCE                  lmn                       snap
+ bjs                         manoj                     sneha
+ book                        mmm                       sona
+ cat                         mmm.sh                    sss
+ chapter2                    moto                      sss.sh
+ child1.c                   'mumbai farmer'            study
+ data.txt                   'mumbai farmers'           swapnil
+ Desktop                     Music                     system
+ dir1                        my                        tanuja
+ DIR1                        myfile                    Templates
+ dir2                        myfile.sh                 ten
+ dir5                        myfirstfile               two.txt
+ Documents                   narendra.k                TYBCA-Pranil
+ Downloads                  'new html'                 typescript
+ empty.txt                   new.txt                  'Untitled Document 1'
+ examples.desktop            nonpreem                  vaibhav.sh
+ fcfs.bhj                    nonpreem.c                variable.sh
+ fcfs.c                      one.c                     varsha
+ fcs.c                       one.txt                   varshu
+ fil                         oo.txt                    va.txt
+ file                        operating                 venkat
+ file1                       or.c                      Videos
+ file23                      orphan1.c                 vishwajit
+ file233                     orphan.c                  viva.txt
+ filename                    p                         vs
+ filename1                   pagall                    vvv
+ first                       paisa                     waghmare333
+ forkexample.c               parentmsg.c              'welcome to pune'
+'form in html fy bca 4011'   Pictures                  yuvaraj
+ four.txt                    pooja
+bca13@bca13:~$ ^C
+bca13@bca13:~$ cd TYBCA-Pranil
+bca13@bca13:~/TYBCA-Pranil$ cd 5program
+bca13@bca13:~/TYBCA-Pranil/5program$ ./rR
+ Total number of process in the system: 5
+
+ Enter the Arrival and Burst time of the Process[1]
+ Arrival time is: 	1
+ 
+Burst time is: 	2
+
+ Enter the Arrival and Burst time of the Process[2]
+ Arrival time is: 	2
+ 
+Burst time is: 	4
+
+ Enter the Arrival and Burst time of the Process[3]
+ Arrival time is: 	3
+ 
+Burst time is: 	5
+
+ Enter the Arrival and Burst time of the Process[4]
+ Arrival time is: 	4
+ 
+Burst time is: 	7
+
+ Enter the Arrival and Burst time of the Process[5]
+ Arrival time is: 	5
+ 
+Burst time is: 	8
+Enter the Time Quantum for the process: 	2
+
+ Process No 		 Burst Time 		 TAT 		 Waiting Time 
+Process No[1] 		 2				 1			 -1
+Process No[2] 		 4				 10			 6
+Process No[3] 		 5				 16			 11
+Process No[4] 		 7				 20			 13
+Process No[5] 		 8				 21			 13
+ Average Turn Around Time: 	8.400000
+bca13@bca13:~/TYBCA-Pranil/5program$ 
+
